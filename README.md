@@ -102,5 +102,5 @@ Maintain stock for top-selling products
 
 8.Screenshot/Demos:
 Snapshot of Retail sales and profit dashboard Example:https://github.com/snehaltavade21-hue/Retail-sales-and-profit-analysis-dashboard/blob/main/Snapshot%20of%20Retail%20sales%20and%20profit%20dashboard.png
-
+<img width="1188" height="638" alt="Image" src="https://github.com/user-attachments/assets/7bcc3dee-b570-4356-aed0-93b023aa110f" />
 
