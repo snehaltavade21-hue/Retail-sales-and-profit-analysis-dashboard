@@ -101,3 +101,4 @@ Inventory Planning
 Maintain stock for top-selling products
 
 8.Screenshot/Demos
+Example:https://github.com/snehaltavade21-hue/Retail-sales-and-profit-analysis-dashboard/blob/main/Snapshot%20of%20Retail%20sales%20and%20profit%20dashboard.png
